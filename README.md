@@ -1,6 +1,6 @@
 # Weather-App-🌞
 
-### Instructions
+## Instructions
 
 Enter the name of the city you want to know the weather for, or grant access to your location to show you the weather where you are right now.
 
@@ -16,7 +16,7 @@ Get a look at the weather forecast for the future too!
 Watch a fun animation that matches the current weather conditions.
 
 
-###Technical Implementations
+## Technical Implementations
 
 Weather Companion is built using React.js, a JavaScript library for building user interfaces. The following technical implementations were used to create the application:
 
