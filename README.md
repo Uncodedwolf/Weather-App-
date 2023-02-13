@@ -1,6 +1,6 @@
 # Weather-App-🌞
 
-##Instructions
+### Instructions
 
 Enter the name of the city you want to know the weather for, or grant access to your location to show you the weather where you are right now.
 
