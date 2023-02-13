@@ -18,12 +18,14 @@ Watch a fun animation that matches the current weather conditions.
 
 ## Technical Implementations 📝
 
-Weather Companion is built using React.js, a JavaScript library for building user interfaces. The following technical implementations were used to create the application:
+Weather Companion is built with JavaScript and makes use of a number of APIs to provide the most accurate and up-to-date weather information. Here are some of the key technologies used:
 
-React Hooks for managing the state and side effects of the components.
-Axios for making API calls to retrieve weather data.
-Moment.js for formatting and manipulating dates and times.
-Styled Components for styling the components and creating a consistent look and feel.
-React.js allowed us to create a responsive and dynamic user interface that updates in real-time with the latest weather information. The application is fast, efficient, and easy to use, making it the perfect weather companion for anyone looking to stay on top of the weather.
+-Geolocation API: To determine the user's current location and retrieve weather information for that location.
+
+-Weather API: To retrieve current weather conditions, including temperature, humidity, and cloud cover, as well as future weather forecasts.
+
+-JavaScript animations: To bring the weather to life with fun animations that match the current weather conditions.
+
+-The JavaScript code behind Weather Companion is organized and optimized for easy maintenance and future development.
 
 ![CoDSaturdayGIF](https://user-images.githubusercontent.com/94199297/218594838-9c8871b6-5c02-47f5-9088-a805f42014b7.gif)
